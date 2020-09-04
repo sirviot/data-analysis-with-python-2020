@@ -4,9 +4,10 @@ VSCode Remote Container with a Miniconda environment for the course.
 
 ## Usage
 
- 1. Clone or copy this repository to Your computer
- 2. Open the directory in Visual Studio Code
- 3. Select _Reopen in Container_ from the Command Palette
+ 1. Have the _Remote - Containers_ extension installed on VSCode
+ 2. Clone or copy this repository to Your computer
+ 3. Open the directory in Visual Studio Code
+ 4. Select _Reopen in Container_ from the Command Palette
 
 After that the TMC extension should be available in the icons on the left.
 
