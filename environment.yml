@@ -1,0 +1,17 @@
+# Dependencies copied from
+# https://github.com/saskeli/data-analysis-with-python-summer-2019/blob/master/requirements.txt
+# as suggested in
+# https://csmastersuh.github.io/data_analysis_with_python_2020/instructions.html#(alternative-b)-Install-miniconda-and-Python-packages
+# Environments name "base" is referred to in the Docker file
+name: base
+# Didn't bother with version numbers though. Hope this doesn't come to regret 
+# this later
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - seaborn
+  - lxml
+  - statsmodels
