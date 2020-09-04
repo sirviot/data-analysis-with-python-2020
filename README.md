@@ -1,6 +1,6 @@
 # Data Analysis With Python 2020
 
-VSCode Remote Container with a Miniconda environment for the course.
+VSCode Remote Container with a Miniconda environment for the course [Data analysis with Python - 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/).
 
 ## Usage
 
