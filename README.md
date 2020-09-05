@@ -1,6 +1,7 @@
 # Data Analysis With Python 2020
 
-VSCode Remote Container with a Miniconda environment for the course [Data analysis with Python - 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/).
+VSCode Remote Container with a Miniconda environment for the course
+[Data analysis with Python - 2020](https://csmastersuh.github.io/data_analysis_with_python_2020/).
 
 ## Usage
 
@@ -10,6 +11,16 @@ VSCode Remote Container with a Miniconda environment for the course [Data analys
  4. Select _Reopen in Container_ from the Command Palette (this will take a few minutes)
 
 After that the TMC extension should be available in the icons on the left.
+
+ 1. Login to your TMC account from the extension
+ 2. Download the assignments
+ 3. Open the _Workspace_
+
+The files from this repository (the `.devcontainer` and others) will not be visible 
+during when the course workspace is open, and only the course assignments are
+editable then. The code is stored inside the Docker container, so it will not be
+available if the container is closed. The code that has been uploaded to TCM should
+be available for downloading again though.
 
 ## How Was This Made
 
